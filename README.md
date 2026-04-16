@@ -1,8 +1,3 @@
-**⚠️ PROPRIETARY SOFTWARE ⚠️**  
-No commercial use, distribution, or modification permitted without written consent. See [LICENSE](LICENSE) for details.
-
-<a href="https://buymeacoffee.com/vivek.raj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
-
 
 # 🏋️ FitZone - Gym Management System
 
@@ -583,5 +578,5 @@ No commercial use, distribution, or modification permitted without written conse
 ---
 
 **Built with ❤️ for fitness enthusiasts**
-By Vivek Sharma
+
 Enjoy managing your gym efficiently with FitZone! 💪
